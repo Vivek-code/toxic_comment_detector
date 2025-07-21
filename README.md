@@ -76,7 +76,7 @@ Follow these simple steps to get a local copy up and running.
 4.  **Run the Application**
     * Make sure you have deleted any old `chat_moderation.db` file to start fresh with the new database schema.
     ```sh
-    streamlit run Welcome.py
+    streamlit run Moderator_Dashboard.py
     ```
     Your browser should automatically open with the application's welcome page!
 
